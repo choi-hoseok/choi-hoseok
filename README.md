@@ -21,12 +21,20 @@ Currently focused on **JVM AI ecosystem**, actively contributing to `LangChain4j
 * **[dokimos](https://github.com/dokimos-dev/dokimos)** 
   * Add `JSONL format` support for datasets [#28](https://github.com/dokimos-dev/dokimos/pull/28) *(Pending)*
 
-### Tech Stack
+## AI Usage Embed
+![Since](https://img.shields.io/badge/Tracking_since-2026--07--29-555?style=flat)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/choi-hoseok/svg?sort=cost&compact=1)](https://tokscale.ai/u/choi-hoseok)
+
+## Tech I've Worked With
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-![Tokscale Tokens](https://tokscale.ai/api/badge/choi-hoseok/svg)
+## Program Solving
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ghtjr410?theme=dark&ext=heatmap)
+
