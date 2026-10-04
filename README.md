@@ -28,4 +28,5 @@ Currently focused on **JVM AI ecosystem**, actively contributing to `LangChain4j
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
+![Tokscale Tokens](https://tokscale.ai/api/badge/choi-hoseok/svg)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ghtjr410?theme=dark&ext=heatmap)
