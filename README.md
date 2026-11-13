@@ -35,6 +35,6 @@ Currently focused on **JVM AI ecosystem**, actively contributing to `LangChain4j
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-## Program Solving
+## Problem Solving
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ghtjr410?theme=dark&ext=heatmap)
 
